@@ -7492,9 +7492,9 @@ caniuse-api@^3.0.0:
     lodash.uniq "^4.5.0"
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30000981, caniuse-lite@^1.0.30001109, caniuse-lite@^1.0.30001317, caniuse-lite@^1.0.30001328, caniuse-lite@^1.0.30001464, caniuse-lite@^1.0.30001541:
-  version "1.0.30001565"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30001565.tgz#a528b253c8a2d95d2b415e11d8b9942acc100c4f"
-  integrity sha512-xrE//a3O7TP0vaJ8ikzkD2c2NgcVUvsEe2IvFTntV4Yd1Z9FVzh+gW+enX96L0psrbaFMcVcH2l90xNuGDWc8w==
+  version "1.0.30001704"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001704.tgz"
+  integrity sha512-+L2IgBbV6gXB4ETf0keSvLr7JUrRVbIaB/lrQ1+z8mRcQiisG5k+lG6O4n6Y5q6f5EuNfaYXKgymucphlEXQew==
 
 capture-exit@^2.0.0:
   version "2.0.0"
@@ -18549,6 +18549,11 @@ react-virtual@^2.3.2:
   integrity sha512-Ir6+oPQZTVHfa6+JL9M7cvMILstFZH/H3jqeYeKI4MSUX+rIruVwFC6nGVXw9wqAw8L0Kg2KvfXxI85OvYQdpQ==
   dependencies:
     "@reach/observe-rect" "^1.1.0"
+
+react-virtuoso@4.12.5:
+  version "4.12.5"
+  resolved "https://registry.yarnpkg.com/react-virtuoso/-/react-virtuoso-4.12.5.tgz#cf92efc2527e56d6df1d4d63c6e4dd3fac5a4030"
+  integrity sha512-YeCbRRsC9CLf0buD0Rct7WsDbzf+yBU1wGbo05/XjbcN2nJuhgh040m3y3+6HVogTZxEqVm45ac9Fpae4/MxRQ==
 
 react-virtuoso@^2.12.0:
   version "2.12.0"
